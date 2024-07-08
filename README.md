@@ -1,8 +1,6 @@
 # Aula-Básica-Tabela-HTML #
 Projeto com conceitos básicos HTML sobre criação de tabelas🚀
 
-[ <img src="./tela-tabela.gif.gif" alt="gif da tela inicial do projeto tabela com HTML"> ]
-
 ## Tecnologias Utilizadas 
 
 -HTML 
